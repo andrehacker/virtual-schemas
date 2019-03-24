@@ -1,10 +1,6 @@
-c1 test4
-c2 test4
-c3 test4
 
 # Virtual Schemas
 
-c1 dev
 
 [![Build Status](https://travis-ci.org/EXASOL/virtual-schemas.svg?branch=master)](https://travis-ci.org/EXASOL/virtual-schemas)
 

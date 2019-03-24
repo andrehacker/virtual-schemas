@@ -1,5 +1,6 @@
 c1 test4
 c2 test4
+c3 test4
 
 # Virtual Schemas
 

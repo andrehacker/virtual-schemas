@@ -1,4 +1,5 @@
 c1 test3
+c2 test3
 # Virtual Schemas
 
 c1 dev

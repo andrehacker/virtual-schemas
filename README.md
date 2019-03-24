@@ -1,5 +1,3 @@
-change 1 in feature/test2
-change 2 in feature/test2
 
 # Virtual Schemas
 
